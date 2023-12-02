@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a UI software Develoeper and third year computer <br>science student at Sanjay Ghodawat University also im full-stack developer and freelancer and web designer
+I'm currently working as a UI Software Developer and third-year computer <br>science student at Sanjay Ghodawat University also im full-stack developer freelancer and web designer
 
 
 ## 🌐 Socials:
@@ -15,10 +15,10 @@ I'm currently working as a UI software Develoeper and third year computer <br>sc
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Digvijay&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 😂 Random Dev Meme
+### 😂 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
