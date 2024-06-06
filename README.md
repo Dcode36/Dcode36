@@ -15,13 +15,7 @@ I'm currently working as a UI Software Developer and third-year computer <br>sci
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Digvijay&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 😂 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Digvijay&icon=4&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
