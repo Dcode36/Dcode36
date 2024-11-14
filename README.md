@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a UI Software Developer and third-year computer <br>science student at Sanjay Ghodawat University also im full-stack developer freelancer and web designer
+I'm currently working as a UI Software Developer and final-year computer <br>science student at Sanjay Ghodawat University. I am also a full-stack developer freelancer and web designer
 
 
 ## 🌐 Socials:
