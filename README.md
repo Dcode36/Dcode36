@@ -32,24 +32,6 @@ I’m currently diving deeper into **Redux**, **WebRTC**, and **GSAP animations*
 | **Database**     | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Tools & Design** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
 
----
-
-## ✨ Featured Projects:  
-
-### 🧳 **Dynamic Travel Itinerary Planner**  
-An interactive app that helps users create and customize travel plans based on preferences, budget, and real-time data.  
-**Tech**: React, Node.js, MongoDB  
-
-### 🤖 **AI Chatbot**  
-A chatbot powered by **Google Gemini API**, designed to provide intelligent, contextual responses.  
-**Tech**: React  
-
-### 🔗 **Blockchain Certificate Verification**  
-A decentralized application to issue and verify certificates securely on the blockchain.  
-**Tech**: React, Blockchain  
-
----
-
 ## 🌍 Find Me Online:  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.digvijaykadam.com/)  
