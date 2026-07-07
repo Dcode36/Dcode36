@@ -1,13 +1,13 @@
 # Digvijay Kadam
+**Full-Stack Software Engineer · Systems Thinker · AI & Cloud Builder**
 
-**Full-Stack Engineer · Systems Thinker · AI & Cloud Builder**
+[Portfolio](https://www.digvijaykadam.com) · [LinkedIn](https://www.linkedin.com/in/kadamdigvijay/) · [GitHub](https://github.com/Dcode36)
 
-[Portfolio](https://www.digvijaykadam.com) · [LinkedIn](https://www.linkedin.com/in/kadamdigvijay/) 
 ---
 
 ## Hello, World 👋
 
-I build **production-grade software** that’s fast, observable, and easy to extend.
+I'm a **Full-Stack Software Engineer** with 1.5+ years of experience building scalable web applications and microservices using the **MERN stack, Node.js, and AWS**. I recently optimized a search API from **7-8s down to under 300ms**, and I love turning messy real-world problems into clean, fast, production-ready systems.
 
 My interests live at the intersection of:
 
@@ -16,17 +16,16 @@ My interests live at the intersection of:
 * **Cloud & automation** (event-driven workflows, serverless, developer tooling)
 * **Applied AI** (LLMs, conversational systems, intelligent automation)
 
-I enjoy turning **messy real-world problems into clean, scalable systems**.
-
 ---
 
-## Current Focus
+## Currently
 
 ```text
-→ Designing low-latency APIs and service boundaries
-→ Building event-driven workflows on AWS
+→ Software Development Engineer - I @ Monkspaces.ai (promoted Oct 2025)
+→ Building full-stack features for a production dashboard (Angular.js + Node.js)
+→ Engineering MongoDB aggregation pipelines for bulk data operations
+→ Building WhatsApp/Twilio-based conversational AI notification systems
 → Exploring LLM-powered developer and support tools
-→ Improving DX with better tooling, bots, and automation
 ```
 
 ---
@@ -34,39 +33,71 @@ I enjoy turning **messy real-world problems into clean, scalable systems**.
 ## Tech I Actually Use
 
 ### Languages
-
 ```text
 JavaScript · Python · Java · C++ · C
 ```
 
 ### Frontend
-
 ```text
-React · Angular · HTML · CSS · Material UI · Ant Design · Bootstrap
+React · Angular · HTML5 · CSS3 · Bootstrap · Material UI · Ant Design
 ```
 
 ### Backend & Systems
-
 ```text
-Node.js · Express · REST · Microservices · Event-Driven Architecture
+Node.js · Express · REST APIs · Microservices Architecture
 ```
 
 ### Data
-
 ```text
 MongoDB · PostgreSQL · MySQL
 ```
 
 ### Cloud & DevOps
-
 ```text
-AWS (EC2, Lambda, S3, EventBridge) · Docker · Vercel
+AWS (EC2, S3, Lambda, EventBridge) · Docker · Vercel
 ```
 
 ### Integrations
+```text
+Slack API · Twilio · WhatsApp API · Novu · OpenAI API · Gemini API
+```
+
+---
+
+## Experience
+
+**Monkspaces.ai** — *Software Development Engineer - I (promoted from Intern, Oct 2025)* · Apr 2025 – Present
+```text
+• Cut search API latency from 7-8s to <300ms across 1500+ records
+• Built MongoDB aggregation pipelines for bulk bookings, cancellations, and data migrations
+• Shipped dashboard features in Angular.js + Node.js
+• Built a Slack bot syncing Google Calendar/Sheets for 20+ team members
+• Built WhatsApp payment notifications (Twilio) for a bot serving 1000+ users
+```
+
+**Geta.ai** — *Full-Stack Developer Intern* · Jan 2025 – Mar 2025
+```text
+• Maintained 4 production microservices
+• Integrated Novu for multi-channel notifications (email, in-app, push)
+• Built event-driven workflows with AWS Lambda + EventBridge
+```
+
+**Bluecrest Software** — *Software Developer Intern* · Nov 2023 – Mar 2024
+```text
+• Built landing/product pages for enterprise clients (Tata Play, Aditya Birla Group)
+• Created 50+ reusable, responsive UI components
+```
+
+---
+
+## Featured Projects
 
 ```text
-Slack API · Twilio · WhatsApp API · Novu · OpenAI · Gemini
+🏆 Itineri-AI — AI travel planner (Gemini API) — 1st place, Hackera National Hackathon (120+ teams)
+💬 SPUR AI — Full-stack AI customer support agent (OpenAI GPT-4o-mini)
+📦 resend-template — Open-source NPM package for transactional emails — 700+ downloads
+🏥 Clinic Management System — MERN app in production, serving 550+ patients
+🛒 StyleCraft — Full-stack e-commerce platform with Razorpay + JWT auth
 ```
 
 ---
@@ -77,55 +108,26 @@ Slack API · Twilio · WhatsApp API · Novu · OpenAI · Gemini
 * **APIs are products** — clear contracts beat clever implementations.
 * **Automation over repetition** — bots > dashboards for internal tooling.
 * **Observability first** — logs, metrics, and traces save more time than refactors.
-* **DX matters** — tools should feel good to use, not just “work.”
-
----
-
-## Things I Like Building
-
-```text
-• Internal developer tools & Slack bots
-• AI-powered assistants and workflow automations
-• Scalable SaaS backends
-• High-performance APIs
-• Clean, composable frontend systems
-```
-
----
-
-## Open Source & Experiments
-
-I enjoy shipping small, focused tools that:
-
-* Reduce setup friction
-* Abstract boring infrastructure
-* Make backend systems easier to reason about
-
-You’ll usually find me experimenting with:
-
-```text
-LLMs · API design · system boundaries · infra automation
-```
+* **DX matters** — tools should feel good to use, not just "work."
 
 ---
 
 ## Beyond Code
 
-When I’m not building systems, I’m usually:
-
 ```text
-• Solving DSA & system design problems
-• Exploring startup ideas
+• Solving DSA & system design problems (380+ LeetCode, 409 GeeksforGeeks)
+• Organizing Google Developer Group (GDG) events — 1200+ students reached
+• Teaching — ran API workshops for 130+ students and a US startup team
 • Breaking things just to understand how they work
 ```
 
 ---
 
-## Let’s Connect
+## Let's Connect
 
-If you’re building **AI tools, developer platforms, or scalable systems**, I’d love to talk.
+If you're building **AI tools, developer platforms, or scalable systems**, I'd love to talk.
 
-→ [LinkedIn](https://www.linkedin.com/in/kadamdigvij/)
+→ [LinkedIn](https://www.linkedin.com/in/kadamdigvijay/)
 → [Portfolio](https://www.digvijaykadam.com)
 
 ---
